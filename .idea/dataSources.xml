@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails localyze: development" uuid="9b5e2f50-7f31-482a-9c2a-214c23d4d036">
+      <driver-ref>greenplum</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/localyze_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails localyze: test" uuid="8e10fc91-2589-4808-a1b3-4bcf691ff64b">
+      <driver-ref>greenplum</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/localyze_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails localyze: production" uuid="6f5f1916-779e-411d-86c0-f5a0928e30c2">
+      <driver-ref>greenplum</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/localyze_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
