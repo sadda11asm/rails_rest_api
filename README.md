@@ -14,9 +14,13 @@ bundle install
 ```
 createdb localyze_development
 ```
-3. Run DB migrations using Sequelize:
+3. Run DB migrations using Rake:
 ```
 rake db:migrate
+```
+4. Run DB seeds using Rake:
+```
+rake db:seed
 ```
 5. Run
 ```
